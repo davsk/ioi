@@ -1,10 +1,4 @@
-# Davsk Standard Project Layout
-## New repository
-You may wish to clone this standard project layout to create a Hugo website to be deployed on AppEngine with limited active content using Go HTTP. This is a bare bones empty repo to provide you with the project directory structure that we are all familiar. When creating a new Hugo website, we usually place public and client's content in separate repositories.
-``` bash
-    git remote remove origin
-```
-You may now publish the repository to your GitHub organization.
+# ioi Input Output Interface
 
 ## Installation
 Install prerequisites first.
